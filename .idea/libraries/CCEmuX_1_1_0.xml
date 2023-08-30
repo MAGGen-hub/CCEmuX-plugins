@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CCEmuX-1.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CCEmuX-revival/build/libs/CCEmuX-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

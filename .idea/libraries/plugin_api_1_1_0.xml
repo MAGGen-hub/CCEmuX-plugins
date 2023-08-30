@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="plugin-api-1.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CCEmuX-revival/plugin-api/build/libs/plugin-api-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
